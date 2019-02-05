@@ -18,9 +18,6 @@
 - `store/index.js` sets the reducers
 - `store/reducers.js` creates the reducers
 
-#### UML
-TODO!
-
 ## Assignment 2 - Create a New Reducer
 
 ### Links and Resources
@@ -37,6 +34,3 @@ TODO!
 - `store/app-reducers.js` creates the name reducers
 - `store/app-reducers.js` creates the numbers reducers
 
-
-#### UML
-TODO!
